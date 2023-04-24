@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parrallel Suite" parallel="classes" thread-count="2">
+    <test name="AllTestCases">
+        <classes>
+            <class name="Ex2"/>
+            <class name="Ex3"/>
+        </classes>
+    </test>
+</suite>
